@@ -27,7 +27,7 @@
   "bugs": {
     "url": "https://github.com/santiaguf/spacex-platzi/issues"
   },
-  "homepage": "https://github.com/santiaguf/spacex-platzi#readme",
+  "homepage": "https://github.com/LuisGomezTrujillo/spacex-platzi",
   "devDependencies": {
     "eslint": "^8.27.0",
     "htmlhint": "^1.1.4",
@@ -40,6 +40,7 @@
     "babel-jest": "^29.3.1",
     "jest": "^29.3.1",
     "jest-fetch-mock": "^3.0.3",
-    "opener": "^1.5.2"
+    "opener": "^1.5.2",
+    "surge": "^0.9.0"
   }
 }
